@@ -12,9 +12,11 @@ This repo is for the following parts:
  
 A short description about the issues that you faced and the lessons that you learned.
  
-- You can itemize
-- Something like this
-- Continued 
+- Utilized skills from the Hello World part of the lab and created a new project for Hello Toast
+- Learned how to add View elements to the layout editor
+- Changed the UI attributes and added new UI elements
+- Learned about the onClick() handlers for the buttons 
+- Learned about a few different layouts: LinearLayouts and RelativeLayout
  
 ---
 Written by Ashley Shea
